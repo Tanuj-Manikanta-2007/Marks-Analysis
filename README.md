@@ -1,2 +1,26 @@
-# Marks-Analysis
-A data analysis project to process classroom marks and apply relative grading using Python and Pandas. Features a Power BI dashboard with clear score distributions, performance insights, and trends. Combines data wrangling, aggregation, and visualization to make academic performance evaluation more transparent and insightful.
+📊 Marks Analysis – Python, Pandas, Power BI
+Overview
+Marks Analysis is a data analytics project designed to process classroom marks, apply relative grading, and present results through interactive visualizations.
+Using Python and Pandas for data wrangling, and Power BI for dashboards, this project provides educators and students with clear insights into performance distribution and trends.
+
+✨ Features
+Data Cleaning – Remove empty rows/columns, standardize column names, and convert marks to numeric format.
+
+Relative Grading – Assign grades based on class performance (mean and standard deviation).
+
+Automated Processing – Works with raw Excel files and generates cleaned, graded datasets.
+
+Interactive Dashboard – Power BI visualizations for score distributions, high performers, and improvement trends.
+
+Export to Excel – Final dataset with grades saved for easy sharing.
+
+🛠️ Technologies Used
+Python – Core processing & data cleaning
+
+Pandas – Data manipulation and calculations
+
+NumPy – Numeric operations
+
+Power BI – Data visualization and dashboarding
+
+Excel – Input/output format
