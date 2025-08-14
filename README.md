@@ -1,8 +1,8 @@
 1) First file is about the code in pandas with .ipynb extension
-2) Second file is about the input excel file with .xlsm extension
+2) Second file is about the input excel file with .xlsx extension
 3) Third file is about the Readme file 
 4) Third file is about the Power BI Dash Board with .pbix extension
-5) Fouth file is about the output excel file with .xlsm extension
+5) Fouth file is about the output excel file with .xlsx extension
    
 📊 Marks Analysis – Python, Pandas, Power BI
 Overview
