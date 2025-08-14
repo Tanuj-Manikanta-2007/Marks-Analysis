@@ -1,7 +1,9 @@
 1) First file is about the code in pandas with .ipynb extension
-2) Second file is about the input excel file
-3) Third file is about the Power BI Dash Board with .pnib extension
-4) Fouth file is about the output excel file
+2) Second file is about the input excel file with .xlsm extension
+3) Third file is about the Readme file 
+4) Third file is about the Power BI Dash Board with .pbix extension
+5) Fouth file is about the output excel file with .xlsm extension
+   
 📊 Marks Analysis – Python, Pandas, Power BI
 Overview
 Marks Analysis is a data analytics project designed to process classroom marks, apply relative grading, and present results through interactive visualizations.
